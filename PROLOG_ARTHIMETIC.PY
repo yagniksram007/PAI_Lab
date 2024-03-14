@@ -17,7 +17,7 @@ multiply(X, Y, Result) :- Result is X * Y.
 divide(X, Y, Result) :- Y =\= 0, Result is X / Y.
 
 #Till here u save in the notepad....
-------------------------------------
+#------------------------------------
 
 #Operations
 
@@ -27,8 +27,8 @@ multiply(3, 7, Prod).
 divide(10, 2, Quot).  
 
 
-For the SWI: Prolog app
-----------------------------------  
+#For the SWI: Prolog app
+#----------------------------------  
 
 #Output
 
